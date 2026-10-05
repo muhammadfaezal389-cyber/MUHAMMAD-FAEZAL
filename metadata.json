@@ -1,0 +1,6 @@
+{
+  "name": "Matematika Juara: Petualangan KPK & FPB",
+  "description": "Aplikasi pembelajaran interaktif matematika kelas 5 SD untuk menguasai kelipatan, faktor, bilangan prima, pohon faktor, KPK, FPB, dan pemecahan masalah kontekstual dengan visual penuh warna dan permainan seru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
